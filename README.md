@@ -1,5 +1,5 @@
-![](https://i.imgur.com/jeDNazh.png)
-
+![Welcome!](https://i.imgur.com/jeDNazh.png)
+![I love Android and Windows!](https://i.imgur.com/fKUNECC.png)
 # About me
 Hello! Im a developer which loves to make useful software for Windows and Android.
 # My stats
