@@ -1,3 +1,5 @@
+- 🕒 Joined 5 May 2020
+- Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania), [Adding That On!](https://github.com/Adding-That-On) and [Plugin It On Block](https://github.com/Pluging-it-on-block)
 ![Welcome!](https://i.imgur.com/jeDNazh.png)
 ![I love Android and Windows!](https://i.imgur.com/fKUNECC.png)
 # About me
