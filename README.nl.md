@@ -1,7 +1,7 @@
--   🕒 Aangemeld op 5 mei 2020
--   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Dat toevoegen!](https://github.com/Adding-That-On)en[Plug het in op blok](https://github.com/Pluging-it-on-block)
+-   🕒 Lid sinds 5 mei 2020
+-   Is de ❤️ eigenaar van [FreakinSoftMania](https://github.com/FreakinSoftMania), [Adding That On!](https://github.com/Adding-That-On) en [Pluging It On Block](https://github.com/Pluging-it-on-block)
 
-![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welkom!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
 # Over mij
 
