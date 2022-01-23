@@ -1,5 +1,5 @@
 -   🕒 Inscrit le 5 mai 2020
--   Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania),[Adding That On!](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
+-   Est le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[Ajouter ça !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](https://i.imgur.com/jeDNazh.png)![I love Android and Windows!](https://i.imgur.com/fKUNECC.png)
 
