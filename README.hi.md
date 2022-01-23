@@ -1,11 +1,11 @@
 -   5 मई 2020 को शामिल हुए
--   ❤️ का मालिक है[फ्रीकिन सॉफ्टमेनिया](https://github.com/FreakinSoftMania),[उस पर जोड़ना!](https://github.com/Adding-That-On)तथा[इसे ब्लॉक पर प्लगइन करें](https://github.com/Pluging-it-on-block)
+-   ❤️ का मालिक है[फ्रीकिन सॉफ्टमेनिया](https://github.com/FreakinSoftMania),[उस पर जोड़ना!](https://github.com/Adding-That-On)तथा[Plugin It On Block](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
-# About me
+# मेरे बारे मेँ
 
-नमस्कार! मैं एक डेवलपर हूं जो विंडोज और एंड्रॉइड के लिए उपयोगी सॉफ्टवेयर बनाना पसंद करता है।
+Hello! Im a developer which loves to make useful software for Windows and Android.
 
 # मेरे आंकड़े
 
