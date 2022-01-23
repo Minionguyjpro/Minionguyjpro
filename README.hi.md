@@ -5,7 +5,7 @@
 
 # मेरे बारे मेँ
 
-नमस्कार! मैं एक डेवलपर हूं जो विंडोज और एंड्रॉइड के लिए उपयोगी सॉफ्टवेयर बनाना पसंद करता है।
+Hello! Im a developer which loves to make useful software for Windows and Android.
 
 # मेरे आंकड़े
 
