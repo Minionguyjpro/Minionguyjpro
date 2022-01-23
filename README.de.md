@@ -5,9 +5,9 @@
 
 # Über mich
 
-Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows und Android zu entwickeln.
+Hello! Im a developer which loves to make useful software for Windows and Android.
 
-# Meine Statistiken
+# My stats
 
 \[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)]
 
