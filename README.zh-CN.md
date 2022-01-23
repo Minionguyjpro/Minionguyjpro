@@ -1,5 +1,5 @@
 -   🕒 2020 年 5 月 5 日加入
--   是❤️的拥有者[FreakinSoftMania](https://github.com/FreakinSoftMania),[加上那个！](https://github.com/Adding-That-On)和[将其插入块](https://github.com/Pluging-it-on-block)
+-   是❤️的拥有者[FreakinSoftMania](https://github.com/FreakinSoftMania), [加上那个！](https://github.com/Adding-That-On) 和 [将其插入块](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](https://i.imgur.com/jeDNazh.png)![I love Android and Windows!](https://i.imgur.com/fKUNECC.png)
 
