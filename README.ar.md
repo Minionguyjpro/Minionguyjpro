@@ -1,5 +1,5 @@
 -   🕒 انضم في 5 مايو 2020
--   هو صاحب ❤️[FreakinSoftMania](https://github.com/FreakinSoftMania),[مضيفا ذلك!](https://github.com/Adding-That-On)و[البرنامج المساعد على بلوك](https://github.com/Pluging-it-on-block)
+-   هو صاحب ❤️[FreakinSoftMania](https://github.com/FreakinSoftMania),[Adding That On!](https://github.com/Adding-That-On)و[البرنامج المساعد على بلوك](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
