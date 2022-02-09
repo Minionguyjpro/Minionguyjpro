@@ -1,5 +1,5 @@
 -   5 मई 2020 को शामिल हुए
--   ❤️ का मालिक है[फ्रीकिन सॉफ्टमेनिया](https://github.com/FreakinSoftMania),[Adding That On!](https://github.com/Adding-That-On)तथा[Plugin It On Block](https://github.com/Pluging-it-on-block)
+-   ❤️ का मालिक है[फ्रीकिन सॉफ्टमेनिया](https://github.com/FreakinSoftMania),[उस पर जोड़ना!](https://github.com/Adding-That-On) and [इसे ब्लॉक पर प्लगइन करें](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
@@ -9,7 +9,7 @@
 
 # मेरे आंकड़े
 
-\[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)]
+![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minionguyjpro&langs_count=5&theme=react)](<>)
 
