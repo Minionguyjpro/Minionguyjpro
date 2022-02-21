@@ -3,11 +3,11 @@
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
-# Over mij
+# About me
 
 Hallo! Ik ben een ontwikkelaar die graag nuttige software maakt voor Windows en Android.
 
-# Mijn statistieken
+# My stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
