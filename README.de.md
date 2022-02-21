@@ -3,7 +3,7 @@
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
-# Über mich
+# About me
 
 Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows und Android zu entwickeln.
 
