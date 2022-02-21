@@ -14,3 +14,12 @@
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minionguyjpro&langs_count=5&theme=react)](<>)
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
+
+# हिसाब किताब
+
+<table>
+  <tr>
+    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro</th>
+    <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
+  </tr>
+</table>
