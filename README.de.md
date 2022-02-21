@@ -3,7 +3,7 @@
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
-# About me
+# Über mich
 
 Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows und Android zu entwickeln.
 
@@ -14,3 +14,12 @@ Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows un
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Minionguyjpro&langs_count=5&theme=react)](<>)
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
+
+# Konten
+
+<table>
+  <tr>
+    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro</th>
+    <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
+  </tr>
+</table>
