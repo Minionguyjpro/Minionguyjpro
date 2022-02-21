@@ -3,9 +3,9 @@
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
-# عني
+# About me
 
-أهلا! أنا مطور يحب صنع برامج مفيدة لنظامي التشغيل Windows و Android.
+Hello! Im a developer which loves to make useful software for Windows and Android.
 
 # إحصائياتي
 
