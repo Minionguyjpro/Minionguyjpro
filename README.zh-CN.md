@@ -1,9 +1,9 @@
--   🕒 2020 年 5 月 5 日加入
--   是❤️的拥有者[FreakinSoftMania](https://github.com/FreakinSoftMania),[加上那个！](https://github.com/Adding-That-On)和[将其插入块](https://github.com/Pluging-it-on-block)
+-   🕒 Joined 5 May 2020
+-   Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania),[加上那个！](https://github.com/Adding-That-On)和[Plugin It On Block](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
-# 关于我
+# About me
 
 你好！我是一名喜欢为 Windows 和 Android 制作有用软件的开发人员。
 
