@@ -18,4 +18,4 @@ Hello! Im a developer which loves to make useful software for Windows and Androi
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
-
+A different name for me is "Minionguyjpro!✔️👏"!
