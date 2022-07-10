@@ -14,7 +14,7 @@ Hello! Im a developer which loves to make useful software for Windows and Androi
 #  Accounts
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro</th>
+    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
