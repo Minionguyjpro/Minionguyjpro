@@ -1,11 +1,13 @@
--   🕒 Aangemeld op 5 mei 2020
--   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Dat toevoegen!](https://github.com/Adding-That-On)en[Plug het in op blok](https://github.com/Pluging-it-on-block)
+# Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
+
+-   🕒 Aangesloten op 5 mei 2020
+-   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Dat toevoegen!](https://github.com/Adding-That-On)En[Plug het in op blok](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
 # Over mij
 
-Hallo! Ik ben een ontwikkelaar die graag nuttige software maakt voor Windows en Android.
+Hallo! Ik ben een ontwikkelaar die graag handige software maakt voor Windows en Android.
 
 # Mijn statistieken
 
@@ -19,7 +21,8 @@ Hallo! Ik ben een ontwikkelaar die graag nuttige software maakt voor Windows en 
 
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro</th>
+    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
+A different name for me is "Minionguyjpro!✔️👏"!
