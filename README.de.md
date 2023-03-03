@@ -1,5 +1,7 @@
+# Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
+
 -   🕒 Beigetreten am 5. Mai 2020
--   Ist der ❤️-Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Fügen Sie das hinzu!](https://github.com/Adding-That-On)und[Plugin es auf Block](https://github.com/Pluging-it-on-block)
+-   Ist der ❤️-Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Fügen Sie das hinzu!](https://github.com/Adding-That-On)Und[Plugin es auf Block](https://github.com/Pluging-it-on-block)
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
@@ -19,7 +21,8 @@ Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows un
 
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro</th>
+    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
+A different name for me is "Minionguyjpro!✔️👏"!
