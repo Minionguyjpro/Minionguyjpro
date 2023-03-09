@@ -1,7 +1,13 @@
 # Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 Beigetreten am 5. Mai 2020
--   Ist der ❤️-Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Fügen Sie das hinzu!](https://github.com/Adding-That-On)Und[Plugin es auf Block](https://github.com/Pluging-it-on-block)
+-   🕒 Joined 5 May 2020
+-   Ist der ❤️-Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Adding That On!](https://github.com/Adding-That-On)Und[Plugin es auf Block](https://github.com/Pluging-it-on-block)
+-   Mag einfache Codierung
+    -   ```bat
+        @ECHO OFF
+        echo Hello There!
+        if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
+        ```
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
