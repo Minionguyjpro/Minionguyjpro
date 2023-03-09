@@ -1,10 +1,15 @@
 # नमस्ते<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒5 मई 2020 को ज्वाइन किया
--   का ❤️मालिक है[फ्रीकिन सॉफ्टमेनिया](https://github.com/FreakinSoftMania),[उस पर जोड़ना!](https://github.com/Adding-That-On)और[इसे ब्लॉक पर प्लग इन करें](https://github.com/Pluging-it-on-block)
+-   का ❤️मालिक है[फ्रीकिन सॉफ्टमेनिया](https://github.com/FreakinSoftMania), [Adding That On!](https://github.com/Adding-That-On)और[इसे ब्लॉक पर प्लग इन करें](https://github.com/Pluging-it-on-block)
+-   साधारण कोडिंग पसंद है
+    -   ```bat
+        @ECHO OFF
+        echo Hello There!
+        if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
+        ```
 
-![Welcome!](./img/welcome-message.png)
-![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
 # मेरे बारे मेँ
 
