@@ -2,9 +2,14 @@
 
 -   🕒 2020 年 5 月 5 日加入
 -   是 ❤️ 的所有者[软软狂热](https://github.com/FreakinSoftMania),[添加那个！](https://github.com/Adding-That-On)和[将其插入块](https://github.com/Pluging-it-on-block)
+-   喜欢简单的编码
+    -   ```bat
+        @ECHO OFF
+        echo Hello There!
+        if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
+        ```
 
-![Welcome!](./img/welcome-message.png)
-![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
 # 关于我
 
