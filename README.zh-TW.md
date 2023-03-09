@@ -1,9 +1,16 @@
 # 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒 2020 年 5 月 5 日加入
--   是 ❤️ 的所有者[軟軟狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入塊](https://github.com/Pluging-it-on-block)
+-   Is the ❤️ owner of [軟軟狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入塊](https://github.com/Pluging-it-on-block)
+-   喜歡簡單的編碼
+    -   ```bat
+        @ECHO OFF
+        echo Hello There!
+        if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
+        ```
 
-![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welcome!](./img/welcome-message.png)
+![I love Android and Windows!](./img/android-and-windows-fan.png)
 
 # 關於我
 
