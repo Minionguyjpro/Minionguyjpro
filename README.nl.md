@@ -2,6 +2,12 @@
 
 -   🕒 Aangesloten op 5 mei 2020
 -   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Dat toevoegen!](https://github.com/Adding-That-On)En[Plug het in op blok](https://github.com/Pluging-it-on-block)
+-   Houdt van eenvoudige codering
+    -   ```bat
+        @ECHO OFF
+        echo Hello There!
+        if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
+        ```
 
 ![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
 
@@ -17,7 +23,7 @@ Hallo! Ik ben een ontwikkelaar die graag handige software maakt voor Windows en 
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
 
-# rekeningen
+# Rekeningen
 
 <table>
   <tr>
