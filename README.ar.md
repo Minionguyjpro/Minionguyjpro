@@ -32,5 +32,7 @@
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
-# SKILLS
-I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
+
+# مهارات
+
+لقد توصلت للتو إلى حقيقة أن مستواي في اللغة الإنجليزية هو B1! شكرًا للجميع على الدردشة على Discord. لقد جعل مهاراتي في اللغة الإنجليزية رائعة حقًا.
