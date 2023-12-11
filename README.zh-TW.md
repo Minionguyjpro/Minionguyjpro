@@ -2,7 +2,7 @@
 
 -   🕒 於 2020 年 5 月 5 日加入
 -   是 ❤️ 的擁有者[怪胎軟體狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入區塊](https://github.com/Pluging-it-on-block)
--   Likes simple coding
+-   喜歡簡單的編碼
     -   ```bat
         @ECHO OFF
         echo Hello There!
@@ -32,5 +32,7 @@
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
-# SKILLS
-I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
+
+# 技能
+
+我剛剛發現我的英語語言技能等級是 B1！感謝大家在 Discord 上聊天。這確實提高了我的英語能力。
