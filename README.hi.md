@@ -2,7 +2,7 @@
 
 -   🕒 5 मई 2020 को शामिल हुए
 -   ❤️ का मालिक है[फ्रीकिनसॉफ्टमैनिया](https://github.com/FreakinSoftMania),[उसे जोड़ रहा हूँ!](https://github.com/Adding-That-On)और[इसे ब्लॉक पर प्लग इन करें](https://github.com/Pluging-it-on-block)
--   Likes simple coding
+-   सरल कोडिंग पसंद है
     -   ```bat
         @ECHO OFF
         echo Hello There!
@@ -32,5 +32,7 @@
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
-# SKILLS
+
+# कौशल
+
 I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
