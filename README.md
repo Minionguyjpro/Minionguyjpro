@@ -26,4 +26,5 @@ Hello! Im a developer which loves to make useful software for Windows and Androi
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
+# SKILLS
 I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
