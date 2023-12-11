@@ -1,7 +1,7 @@
 # Bonjour<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒 Inscrit le 5 mai 2020
--   Est le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[Ajouter ça !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
+-   Est-ce que le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
 -   Aime le codage simple
     -   ```bat
         @ECHO OFF
@@ -32,3 +32,7 @@ Bonjour! Je suis un développeur qui aime créer des logiciels utiles pour Windo
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
+
+# COMPÉTENCES
+
+Je viens de réaliser que mon niveau d’anglais est B1 ! Merci à tous pour vos discussions sur Discord. Cela a vraiment amélioré mes compétences en anglais.
