@@ -1,7 +1,7 @@
 # مرحبًا<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 انضم في 5 مايو 2020
--   هو صاحب ❤️[FreakinSoftMania](https://github.com/FreakinSoftMania),[مضيفا ذلك!](https://github.com/Adding-That-On)و[البرنامج المساعد على بلوك](https://github.com/Pluging-it-on-block)
+-   🕒 تم الانضمام في 5 مايو 2020
+-   هو ❤️ مالك[FreakinSoftMania](https://github.com/FreakinSoftMania),[إضافة ذلك على!](https://github.com/Adding-That-On)و[البرنامج المساعد على كتلة](https://github.com/Pluging-it-on-block)
 -   يحب الترميز البسيط
     -   ```bat
         @ECHO OFF
@@ -13,7 +13,7 @@
 
 # ْعَنِّي
 
-مرحبًا! أنا مطور يحب صنع برامج مفيدة لنظامي التشغيل Windows و Android.
+مرحبًا! أنا مطور أحب إنشاء برامج مفيدة لنظامي التشغيل Windows وAndroid.
 
 # إحصائياتي
 
@@ -32,3 +32,5 @@
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
+# SKILLS
+I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
