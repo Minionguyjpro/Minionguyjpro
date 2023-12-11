@@ -1,6 +1,6 @@
-# Hello <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
+# 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 Joined 5 May 2020
+-   🕒 于 2020 年 5 月 5 日加入
 -   是 ❤️ 的拥有者[怪胎软件狂热](https://github.com/FreakinSoftMania),[添加那个！](https://github.com/Adding-That-On)和[将其插入块](https://github.com/Pluging-it-on-block)
 -   喜欢简单的编码
     -   ```bat
@@ -32,5 +32,7 @@
   </tr>
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
-# SKILLS
+
+# 技能
+
 I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
