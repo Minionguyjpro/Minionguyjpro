@@ -11,7 +11,7 @@
 ![Welcome!](./img/welcome-message.png)
 ![I love Android and Windows!](./img/android-and-windows-fan.png)
 # About me
-Hello! Im a developer which loves to make useful software for Windows and Android.
+Hello! I'm a developer which loves to make useful software for Windows and Android.
 # My stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
