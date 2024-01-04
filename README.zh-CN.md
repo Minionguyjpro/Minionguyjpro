@@ -35,4 +35,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # 技能
 
-I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
+我刚刚发现我的英语语言技能水平是 B1！感谢大家在 Discord 上聊天。这确实提高了我的英语能力。
