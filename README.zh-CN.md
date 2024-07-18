@@ -13,7 +13,7 @@
 
 # 关于我
 
-你好！我是一名开发人员，喜欢为 Windows 和 Android 开发有用的软件。
+你好！我是一名开发人员，喜欢为 Windows 和 Android 开发有用的软件。我想在未来几年扩大我的知识。
 
 # 我的统计数据
 
@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
+    <td align="left"><img src="./img/discord.svg" alt="minionguyjpro" width="32" height="32"/></td><th>minionguyjpro</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
@@ -35,4 +35,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # 技能
 
-我刚刚发现我的英语语言技能水平是 B1！感谢大家在 Discord 上聊天。这确实提高了我的英语能力。
+I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
