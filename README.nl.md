@@ -13,7 +13,7 @@
 
 # Over mij
 
-Hallo! Ik ben een ontwikkelaar die graag nuttige software maakt voor Windows en Android.
+Hallo! Ik ben een ontwikkelaar die graag nuttige software maakt voor Windows en Android. De komende jaren wil ik mijn kennis uitbreiden.
 
 # Mijn statistieken
 
@@ -27,7 +27,7 @@ Hallo! Ik ben een ontwikkelaar die graag nuttige software maakt voor Windows en 
 
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
+    <td align="left"><img src="./img/discord.svg" alt="minionguyjpro" width="32" height="32"/></td><th>minionguyjpro</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
