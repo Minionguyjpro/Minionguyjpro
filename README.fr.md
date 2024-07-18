@@ -13,7 +13,7 @@
 
 # Sur moi
 
-Bonjour! Je suis un développeur qui aime créer des logiciels utiles pour Windows et Android.
+Bonjour! Je suis un développeur qui aime créer des logiciels utiles pour Windows et Android. Je souhaite élargir mes connaissances dans les années à venir.
 
 # Mes stats
 
@@ -27,7 +27,7 @@ Bonjour! Je suis un développeur qui aime créer des logiciels utiles pour Windo
 
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
+    <td align="left"><img src="./img/discord.svg" alt="minionguyjpro" width="32" height="32"/></td><th>minionguyjpro</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
