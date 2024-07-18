@@ -13,7 +13,7 @@
 
 # ْعَنِّي
 
-مرحبًا! أنا مطور أحب إنشاء برامج مفيدة لنظامي التشغيل Windows وAndroid.
+مرحبًا! أنا مطور أحب إنشاء برامج مفيدة لنظامي التشغيل Windows وAndroid. أرغب في توسيع معرفتي في السنوات القليلة المقبلة.
 
 # إحصائياتي
 
@@ -27,7 +27,7 @@
 
 <table>
   <tr>
-    <td align="left"><img src="./img/discord.svg" alt="Minionguyjpro#2502" width="32" height="32"/></td><th>Minionguyjpro#2502</th>
+    <td align="left"><img src="./img/discord.svg" alt="minionguyjpro" width="32" height="32"/></td><th>minionguyjpro</th>
     <td align="left"><img src="./img/reddit.svg" alt="Minionguyjproo" width="32" height="32"/></td><th>Minionguyjproo</th>
   </tr>
 </table>
