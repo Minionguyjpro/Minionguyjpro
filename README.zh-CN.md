@@ -1,7 +1,7 @@
 # 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 于 2020 年 5 月 5 日加入
--   是 ❤️ 的拥有者[怪胎软件狂热](https://github.com/FreakinSoftMania),[添加那个！](https://github.com/Adding-That-On)和[将其插入块](https://github.com/Pluging-it-on-block)
+-   🕒2020年5月5日加入
+-   是 ❤️ 的拥有者[怪胎软件狂热](https://github.com/FreakinSoftMania),[添加那个！](https://github.com/Adding-That-On)和[在块上插件](https://github.com/Pluging-it-on-block)
 -   喜欢简单的编码
     -   ```bat
         @ECHO OFF
@@ -13,7 +13,7 @@
 
 # 关于我
 
-你好！我是一名开发人员，喜欢为 Windows 和 Android 开发有用的软件。我想在未来几年扩大我的知识。
+你好！我是一个未来派的学生，计算机工程师和开发人员，喜欢制作有用的软件！我想在未来的几年中扩大我的知识。
 
 # 我的统计数据
 
@@ -23,7 +23,7 @@
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
 
-# 账户
+# 帐户
 
 <table>
   <tr>
