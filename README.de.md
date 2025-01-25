@@ -1,8 +1,8 @@
 # Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒 Beigetreten am 5. Mai 2020
--   Ist der ❤️ Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Das hinzufügen!](https://github.com/Adding-That-On)Und[Stecken Sie es in Block ein](https://github.com/Pluging-it-on-block)
--   Likes simple coding
+-   Ist der ❤️ Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Das hinzufügen!](https://github.com/Adding-That-On)Und[Plugin It On Block](https://github.com/Pluging-it-on-block)
+-   Mag einfache Codierung
     -   ```bat
         @ECHO OFF
         echo Hello There!
@@ -13,9 +13,9 @@
 
 # Über mich
 
-Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows und Android zu entwickeln. Ich möchte mein Wissen in den kommenden Jahren erweitern.
+Hallo! Ich bin ein futuristischer Student, Computeringenieur und Entwickler, der es liebt, nützliche Software zu entwickeln! Ich möchte mein Wissen in den kommenden Jahren erweitern.
 
-# Meine Statistiken
+# My stats
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
@@ -23,7 +23,7 @@ Hallo! Ich bin ein Entwickler, der es liebt, nützliche Software für Windows un
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
 
-# Konten
+# Accounts
 
 <table>
   <tr>
