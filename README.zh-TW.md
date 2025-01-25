@@ -1,7 +1,7 @@
 # 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 於 2020 年 5 月 5 日加入
--   是 ❤️ 的擁有者[怪胎軟體狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入區塊](https://github.com/Pluging-it-on-block)
+-   🕒2020年5月5日加入
+-   是❤️的所有者[怪胎軟體狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[在塊上插件](https://github.com/Pluging-it-on-block)
 -   喜歡簡單的編碼
     -   ```bat
         @ECHO OFF
@@ -13,7 +13,7 @@
 
 # 關於我
 
-你好！我是一名開發人員，喜歡為 Windows 和 Android 開發有用的軟體。我想在未來幾年擴大我的知識。
+你好！我是一名未來派學生、電腦工程師和開發人員，喜歡製作有用的軟體！我想在未來幾年擴大我的知識。
 
 # 我的統計數據
 
@@ -35,4 +35,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # 技能
 
-我剛剛發現我的英語語言技能水平是 B1！感謝大家在 Discord 上聊天。這確實提高了我的英語能力。
+我只是想到我的英語Languaskill級別是B1！感謝大家在不和諧上聊天。這確實使我的英語技能很棒。
