@@ -1,7 +1,7 @@
 # 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒2020年5月5日加入
--   是 ❤️ 的拥有者[怪胎软件狂热](https://github.com/FreakinSoftMania),[添加那个！](https://github.com/Adding-That-On)和[在块上插件](https://github.com/Pluging-it-on-block)
+-   是❤️的所有者[Freakinsoftmania](https://github.com/FreakinSoftMania),[加上！](https://github.com/Adding-That-On)和[在块上插件](https://github.com/Pluging-it-on-block)
 -   喜欢简单的编码
     -   ```bat
         @ECHO OFF
@@ -9,7 +9,7 @@
         if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
         ```
 
-![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welcome!](./img/welcome-message.png)![I love Android and Linux!](./img/android-and-linux-fan.png)
 
 # 关于我
 
@@ -35,4 +35,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # 技能
 
-I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
+我只是想到我的英语Languaskill级别是B1！感谢大家在不和谐上聊天。这确实使我的英语技能很棒。
