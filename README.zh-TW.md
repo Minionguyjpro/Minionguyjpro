@@ -13,7 +13,7 @@
 
 # 關於我
 
-你好！我是一個未來派的學生，計算機工程師和開發人員，喜歡製作有用的軟件！我想在未來的幾年中擴大我的知識。
+Hello! I'm a futuristic student, computer engineer & developer who loves to make useful software! I am wanting to expand my knowledge in the couple years ahead to come.
 
 # 我的統計數據
 
