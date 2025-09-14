@@ -9,7 +9,7 @@
     ```
 
 ![Welcome!](./img/welcome-message.png)
-![I love Android and Windows!](./img/android-and-windows-fan.png)
+![I love Android and Linux!](./img/android-and-linux-fan.png)
 # About me
 Hello! I'm a futuristic student, computer engineer & developer who loves to make useful software! I am wanting to expand my knowledge in the couple years ahead to come.
 # My stats
