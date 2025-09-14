@@ -1,7 +1,7 @@
 # Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒 trat am 5. Mai 2020 bei
--   Ist der ❤️ Besitzer von[Freakinsoftmania](https://github.com/FreakinSoftMania),[Das hinzufügen!](https://github.com/Adding-That-On)Und[Plugin es am Block](https://github.com/Pluging-it-on-block)
+-   Is the ❤️ owner of [Freakinsoftmania](https://github.com/FreakinSoftMania),[Das hinzufügen!](https://github.com/Adding-That-On)Und[Plugin es am Block](https://github.com/Pluging-it-on-block)
 -   Mag einfache Codierung
     -   ```bat
         @ECHO OFF
@@ -13,7 +13,7 @@
 
 # Über mich
 
-Hallo! Ich bin ein futuristischer Student, Computeringenieur und Entwickler, der gerne nützliche Software herstellt! Ich möchte mein Wissen in den kommenden Jahren erweitern.
+Hello! I'm a futuristic student, computer engineer & developer who loves to make useful software! I am wanting to expand my knowledge in the couple years ahead to come.
 
 # Meine Statistiken
 
@@ -23,7 +23,7 @@ Hallo! Ich bin ein futuristischer Student, Computeringenieur und Entwickler, der
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
 
-# Accounts
+# Konten
 
 <table>
   <tr>
