@@ -1,7 +1,7 @@
 # Bonjour<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 Inscrit le 5 mai 2020
--   Est le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
+-   🕒 A rejoint le 5 mai 2020
+-   Est le ❤️ propriétaire de[Freakinsoftmania](https://github.com/FreakinSoftMania),[Ajouter cela!](https://github.com/Adding-That-On)et[Le plugin sur le bloc](https://github.com/Pluging-it-on-block)
 -   Aime le codage simple
     -   ```bat
         @ECHO OFF
@@ -9,7 +9,7 @@
         if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
         ```
 
-![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welcome!](./img/welcome-message.png)![I love Android and Linux!](./img/android-and-linux-fan.png)
 
 # Sur moi
 
@@ -33,6 +33,6 @@ Bonjour! Je suis un étudiant futuriste, un ingénieur informatique et un dével
 </table>
 A different name for me is "Minionguyjpro!✔️👏"!
 
-# SKILLS
+# COMPÉTENCES
 
-Je suis juste venu au fait que mon niveau de Languaskill anglais est B1! Merci à tous pour le chat sur Discord. Cela a vraiment rendu mes compétences en anglais.
+I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
