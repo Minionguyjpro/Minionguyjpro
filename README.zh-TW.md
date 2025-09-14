@@ -1,7 +1,7 @@
 # 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
 -   🕒2020年5月5日加入
--   是❤️的所有者[怪胎軟體狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[在塊上插件](https://github.com/Pluging-it-on-block)
+-   是❤️的所有者[Freakinsoftmania](https://github.com/FreakinSoftMania),[加上！](https://github.com/Adding-That-On)和[在塊上插件](https://github.com/Pluging-it-on-block)
 -   喜歡簡單的編碼
     -   ```bat
         @ECHO OFF
@@ -9,11 +9,11 @@
         if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
         ```
 
-![Welcome!](./img/welcome-message.png)![I love Android and Windows!](./img/android-and-windows-fan.png)
+![Welcome!](./img/welcome-message.png)![I love Android and Linux!](./img/android-and-linux-fan.png)
 
 # 關於我
 
-你好！我是一名未來派學生、電腦工程師和開發人員，喜歡製作有用的軟體！我想在未來幾年擴大我的知識。
+你好！我是一個未來派的學生，計算機工程師和開發人員，喜歡製作有用的軟件！我想在未來的幾年中擴大我的知識。
 
 # 我的統計數據
 
