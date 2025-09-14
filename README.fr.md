@@ -35,4 +35,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # COMPÉTENCES
 
-I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
+Je suis juste venu au fait que mon niveau de Languaskill anglais est B1! Merci à tous pour le chat sur Discord. Cela a vraiment rendu mes compétences en anglais.
