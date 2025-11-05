@@ -1,4 +1,4 @@
-# Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
+# Hallo<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
 -   🕒 Aangesloten op 5 mei 2020
 -   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Voeg dat toe!](https://github.com/Adding-That-On)En[Sluit het aan op Block](https://github.com/Pluging-it-on-block)
