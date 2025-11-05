@@ -1,7 +1,7 @@
-# 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
+# 你好<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
 -   🕒 2020年5月5日加入
--   是 ❤️ 的擁有者[怪胎軟件狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入塊](https://github.com/Pluging-it-on-block)
+-   是 ❤️ 的擁有者[怪胎軟件狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[Plugin It On Block](https://github.com/Pluging-it-on-block)
 -   考慮這個 WIP
 -   喜歡編程，是時候回歸了！
     -   ```bat
@@ -24,7 +24,7 @@
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
 
-# Accounts
+# 賬戶
 
 <table>
   <tr>
