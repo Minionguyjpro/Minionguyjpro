@@ -1,19 +1,20 @@
 # Hallo<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒 Toet lid van 5 mei 2020
--   Is de ❤️ eigenaar van[Freakinsoftmania](https://github.com/FreakinSoftMania),[Dat toevoegen!](https://github.com/Adding-That-On)En[Plug -in op blok](https://github.com/Pluging-it-on-block)
--   Houdt van eenvoudige codering
+-   🕒 Aangesloten op 5 mei 2020
+-   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Voeg dat toe!](https://github.com/Adding-That-On)En[Sluit het aan op Block](https://github.com/Pluging-it-on-block)
+-   Denk eens aan deze WIP
+-   Houdt van programmeren, het is tijd om terug te keren!
     -   ```bat
         @ECHO OFF
         echo Hello There!
         if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
         ```
 
-![Welcome!](./img/welcome-message.png)![I love Android and Linux!](./img/android-and-linux-fan.png)
+![I love Android and Linux!](./img/android-and-linux-fan.png)
 
 # Over mij
 
-Hallo! Ik ben een futuristische student, computeringenieur en ontwikkelaar die graag nuttige software maakt! Ik wil mijn kennis in de komende paar jaar uitbreiden.
+Hallo! Ik ben een futuristische student, computernerd en ontwikkelaar die ernaar streeft nuttige software te maken! De komende jaren wil ik mijn kennis graag uitbreiden.
 
 # Mijn statistieken
 
@@ -35,4 +36,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # VAARDIGHEDEN
 
-Ik ben net bij het feit dat mijn Engelse tasaskill -niveau B1 is! Bedankt iedereen voor het chatten op Discord. Het maakte mijn Engelse vaardigheden echt geweldig.
+Ik kwam er net achter dat mijn Engelse taalvaardigheidsniveau B1 is! Bedankt iedereen voor het chatten op Discord. Het heeft mijn Engelse vaardigheden echt geweldig gemaakt.
