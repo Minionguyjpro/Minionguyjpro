@@ -1,17 +1,17 @@
 # Hello <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
-* 🕒 Joined 5 May 2020
+* 🕒 Joined 5th of May, 2020
 * Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania), [Adding That On!](https://github.com/Adding-That-On) and [Plugin It On Block](https://github.com/Pluging-it-on-block)
-* Likes simple coding
+* Consider this WIP
+* Likes programming, it's time to return!
   * ```bat
     @ECHO OFF
     echo Hello There!
     if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
     ```
 
-![Welcome!](./img/welcome-message.png)
 ![I love Android and Linux!](./img/android-and-linux-fan.png)
 # About me
-Hello! I'm a futuristic student, computer engineer & developer who loves to make useful software! I am wanting to expand my knowledge in the couple years ahead to come.
+Hello! I'm a futuristic student, computer geek & developer who strives to make useful software! I am eager to expand my knowledge in the couple of years ahead to come.
 # My stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
