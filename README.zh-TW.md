@@ -1,19 +1,20 @@
 # 你好<img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
 
--   🕒2020年5月5日加入
--   是❤️的所有者[Freakinsoftmania](https://github.com/FreakinSoftMania),[加上！](https://github.com/Adding-That-On)和[在塊上插件](https://github.com/Pluging-it-on-block)
--   喜歡簡單的編碼
+-   🕒 2020年5月5日加入
+-   是 ❤️ 的擁有者[怪胎軟件狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入塊](https://github.com/Pluging-it-on-block)
+-   考慮這個 WIP
+-   喜歡編程，是時候回歸了！
     -   ```bat
         @ECHO OFF
         echo Hello There!
         if %PROCESSOR_ARCHITECTURE%==AMD64 echo Your computer is 64-bit!
         ```
 
-![Welcome!](./img/welcome-message.png)![I love Android and Linux!](./img/android-and-linux-fan.png)
+![I love Android and Linux!](./img/android-and-linux-fan.png)
 
 # 關於我
 
-Hello! I'm a futuristic student, computer engineer & developer who loves to make useful software! I am wanting to expand my knowledge in the couple years ahead to come.
+你好！我是一名未來派學生、計算機極客和開發人員，致力於開發有用的軟件！我渴望在未來幾年擴大我的知識。
 
 # 我的統計數據
 
@@ -23,7 +24,7 @@ Hello! I'm a futuristic student, computer engineer & developer who loves to make
 
 [![My Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Minionguyjpro)](https://github.com/Minionguyjpro/github-contribution-stats/)
 
-# 帳戶
+# Accounts
 
 <table>
   <tr>
@@ -35,4 +36,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # 技能
 
-我只是想到我的英語Languaskill級別是B1！感謝大家在不和諧上聊天。這確實使我的英語技能很棒。
+我剛剛發現我的英語語言技能水平是 B1！感謝大家在 Discord 上聊天。這確實提高了我的英語能力。
