@@ -1,4 +1,4 @@
-# Hello <img src="https://media.tenor.com/images/822fb670841c6f6582fefbb82e338a50/tenor.gif" width="30px">!
+# Hello <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 * 🕒 Joined 5th of May, 2020
 * Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania), [Adding That On!](https://github.com/Adding-That-On) and [Plugin It On Block](https://github.com/Pluging-it-on-block)
 * Consider this WIP
