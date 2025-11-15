@@ -1,9 +1,10 @@
 # مرحبًا<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
 -   🕒 تم الانضمام في 5 مايو 2020
--   هو ❤️ مالك[FreakinSoftMania](https://github.com/FreakinSoftMania),[Adding That On!](https://github.com/Adding-That-On)و[البرنامج المساعد على كتلة](https://github.com/Pluging-it-on-block)
+-   هو ❤️ مالك[FreakinSoftMania](https://github.com/FreakinSoftMania),[إضافة ذلك على!](https://github.com/Adding-That-On)و[البرنامج المساعد على كتلة](https://github.com/Pluging-it-on-block)
+-   يدير مواقع الويب على خادمه الخاص (على سبيل المثال.<https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro>)
 -   النظر في هذا العمل قيد التقدم
--   Likes programming, it's time to return!
+-   يحب البرمجة، وحان الوقت للعودة!
     -   ```bat
         @ECHO OFF
         echo Hello There!
@@ -36,4 +37,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # مهارات
 
-لقد توصلت للتو إلى حقيقة أن مستواي في اللغة الإنجليزية هو B1! شكرًا للجميع على الدردشة على Discord. لقد جعل مهاراتي في اللغة الإنجليزية رائعة حقًا.
+I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
