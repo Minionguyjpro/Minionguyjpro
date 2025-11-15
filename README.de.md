@@ -1,9 +1,10 @@
 # Hallo<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
--   🕒 Beigetreten am 5. Mai 2020
--   Ist der ❤️ Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Das hinzufügen!](https://github.com/Adding-That-On)Und[Stecken Sie es in Block ein](https://github.com/Pluging-it-on-block)
+-   🕒 Joined 5th of May, 2020
+-   Ist der ❤️ Besitzer von[FreakinSoftMania](https://github.com/FreakinSoftMania),[Fügen Sie das hinzu!](https://github.com/Adding-That-On)Und[Stecken Sie es in Block ein](https://github.com/Pluging-it-on-block)
+-   Betreibt Websites auf seinem eigenen Server (z. B.<https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro>)
 -   Betrachten Sie dieses WIP
--   Programmiert gern, es ist Zeit zurückzukehren!
+-   Likes programming, it's time to return!
     -   ```bat
         @ECHO OFF
         echo Hello There!
