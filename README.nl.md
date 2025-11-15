@@ -2,6 +2,7 @@
 
 -   🕒 Aangesloten op 5 mei 2020
 -   Is de ❤️ eigenaar van[FreakinSoftMania](https://github.com/FreakinSoftMania),[Voeg dat toe!](https://github.com/Adding-That-On)En[Sluit het aan op Block](https://github.com/Pluging-it-on-block)
+-   Draait websites op zijn eigen server (bijv.<https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro>)
 -   Denk eens aan deze WIP
 -   Houdt van programmeren, het is tijd om terug te keren!
     -   ```bat
