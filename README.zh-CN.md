@@ -2,7 +2,7 @@
 
 -   🕒 2020年5月5日加入
 -   是 ❤️ 的拥有者[怪胎软件狂热](https://github.com/FreakinSoftMania),[添加那个！](https://github.com/Adding-That-On)和[将其插入块](https://github.com/Pluging-it-on-block)
--   在自己的服务器上运行网站（例如<https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro>)
+-   在自己的服务器上运行网站（例如<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
 -   考虑这个 WIP
 -   喜欢编程，是时候回归了！
     -   ```bat
