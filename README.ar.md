@@ -2,7 +2,7 @@
 
 -   🕒 تم الانضمام في 5 مايو 2020
 -   هو ❤️ مالك[FreakinSoftMania](https://github.com/FreakinSoftMania),[إضافة ذلك على!](https://github.com/Adding-That-On)و[البرنامج المساعد على كتلة](https://github.com/Pluging-it-on-block)
--   يدير مواقع الويب على خادمه الخاص (على سبيل المثال.<https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro>)
+-   يدير مواقع الويب على خادمه الخاص (على سبيل المثال.<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
 -   النظر في هذا العمل قيد التقدم
 -   يحب البرمجة، وحان الوقت للعودة!
     -   ```bat
