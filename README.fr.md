@@ -2,7 +2,7 @@
 
 -   🕒 Inscrit le 5 mai 2020
 -   Est-ce que le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
--   Gère des sites Web sur son propre serveur (par ex.<https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro>)
+-   Gère des sites Web sur son propre serveur (par ex.<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
 -   Considérez ce WIP
 -   Aime la programmation, il est temps de revenir !
     -   ```bat
