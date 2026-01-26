@@ -1,7 +1,7 @@
 # Hello <img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 * 🕒 Joined 5th of May, 2020
 * Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania), [Adding That On!](https://github.com/Adding-That-On) and [Plugin It On Block](https://github.com/Pluging-it-on-block)
-* Runs websites on his own server (e.g. https://wiki.goodcreations.dedyn.io/wiki/User:Minionguyjpro)
+* Runs websites on his own server (e.g. https://wiki.goodcreations.net/wiki/User:Minionguyjpro)
 * Consider this WIP
 * Likes programming, it's time to return!
   * ```bat
