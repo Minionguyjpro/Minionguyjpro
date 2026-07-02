@@ -29,4 +29,4 @@ Hello! I'm a futuristic student, computer geek & developer who strives to make u
 A different name for me is "Minionguyjpro!✔️👏"!
 
 # SKILLS
-I just came to the fact my English languaskill level is B1! Thanks everyone for the chatting on Discord. It really made my English skills great.
+I just came to the fact my English linguaskill level is B1! Thanks everyone for the chatting on Discord. It has really improved my English skills and lifted it to a quite fluent level.
