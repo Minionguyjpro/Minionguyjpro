@@ -37,4 +37,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # VAARDIGHEDEN
 
-Ik kwam er net achter dat mijn Engelse taalvaardigheidsniveau B1 is! Bedankt iedereen voor het chatten op Discord. Het heeft mijn Engelse vaardigheden echt geweldig gemaakt.
+Ik kwam er net achter dat mijn Engelse taalvaardigheidsniveau B1 is! Bedankt iedereen voor het chatten op Discord. Het heeft mijn Engelse vaardigheden echt verbeterd en naar een redelijk vloeiend niveau getild.
