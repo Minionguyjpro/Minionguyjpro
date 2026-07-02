@@ -37,4 +37,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # FÄHIGKEITEN
 
-Ich bin gerade zu dem Schluss gekommen, dass mein Englischniveau B1 ist! Vielen Dank an alle für den Chat auf Discord. Es hat meine Englischkenntnisse wirklich verbessert.
+Ich bin gerade zu dem Schluss gekommen, dass mein Sprachniveau in Englisch B1 ist! Vielen Dank an alle für den Chat auf Discord. Es hat meine Englischkenntnisse wirklich verbessert und auf ein ziemlich flüssiges Niveau gebracht.
