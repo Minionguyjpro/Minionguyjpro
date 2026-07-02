@@ -1,7 +1,7 @@
 # Bonjour<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
 -   🕒 Inscrit le 5 mai 2020
--   Est-ce que le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
+-   Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
 -   Gère des sites Web sur son propre serveur (par ex.<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
 -   Considérez ce WIP
 -   Aime la programmation, il est temps de revenir !
@@ -37,4 +37,4 @@ A different name for me is "Minionguyjpro!✔️👏"!
 
 # COMPÉTENCES
 
-Je viens de réaliser que mon niveau d’anglais est B1 ! Merci à tous pour vos discussions sur Discord. Cela a vraiment amélioré mes compétences en anglais.
+Je viens de réaliser que mon niveau de compétence linguistique en anglais est B1 ! Merci à tous pour vos discussions sur Discord. Cela a vraiment amélioré mes compétences en anglais et les a portées à un niveau assez courant.
