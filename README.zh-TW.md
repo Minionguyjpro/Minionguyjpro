@@ -3,7 +3,7 @@
 -   🕒 2020年5月5日加入
 -   是 ❤️ 的擁有者[怪胎軟體狂熱](https://github.com/FreakinSoftMania),[添加那個！](https://github.com/Adding-That-On)和[將其插入區塊](https://github.com/Pluging-it-on-block)
 -   在自己的伺服器上運行網站（例如<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
--   Consider this WIP
+-   考慮這個 WIP
 -   喜歡編程，是時候回歸了！
     -   ```bat
         @ECHO OFF
@@ -16,6 +16,8 @@
 # 關於我
 
 你好！我是一名未來派學生、電腦極客和開發人員，致力於開發有用的軟體！我渴望在未來幾年擴大我的知識。
+
+在經歷了人生中一些困難的時期後，我想嘗試重新找回一些嗜好和目標。其中之一是改變世界：我堅信，我們的生活是為了以人文主義的無限循環（除非物理學打破它）來帶來進步。
 
 # 我的統計數據
 
