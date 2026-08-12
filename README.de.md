@@ -17,6 +17,8 @@
 
 Hallo! Ich bin ein futuristischer Student, Computerfreak und Entwickler, der danach strebt, nützliche Software zu entwickeln! Ich bin bestrebt, mein Wissen in den kommenden Jahren zu erweitern.
 
+Nach einigen schwierigen Phasen in meinem Leben möchte ich versuchen, zurückzukommen und einige Hobbys und Ziele wieder aufzunehmen. Eine davon besteht darin, die Welt zu verändern: Ich bin davon überzeugt, dass wir leben, um Verbesserungen herbeizuführen, in einem endlosen Kreislauf (es sei denn, die Physik unterbricht ihn) mit dem Humanismus.
+
 # Meine Statistiken
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
