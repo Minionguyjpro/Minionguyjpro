@@ -17,6 +17,8 @@
 
 Hallo! Ik ben een futuristische student, computernerd en ontwikkelaar die ernaar streeft nuttige software te maken! De komende jaren wil ik mijn kennis graag uitbreiden.
 
+Na een aantal moeilijke periodes in mijn leven wil ik proberen terug te komen en wat hobby's en doelen weer op te pakken. Eén daarvan is het veranderen van de wereld: ik ben ervan overtuigd dat we leven om verbetering te brengen, in een eindeloze cyclus (tenzij de natuurkunde deze verbreekt) met het humanisme.
+
 # Mijn statistieken
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
