@@ -1,10 +1,10 @@
 # नमस्ते<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
 -   🕒 5 मई, 2020 को शामिल हुए
--   ❤️ का मालिक है[FreakinSoftMania](https://github.com/FreakinSoftMania),[Adding That On!](https://github.com/Adding-That-On)और[इसे ब्लॉक पर प्लग इन करें](https://github.com/Pluging-it-on-block)
--   Runs websites on his own server (e.g. <https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
+-   ❤️ का मालिक है[फ्रीकिनसॉफ्टमैनिया](https://github.com/FreakinSoftMania),[उसे जोड़ रहा हूँ!](https://github.com/Adding-That-On)और[इसे ब्लॉक पर प्लग इन करें](https://github.com/Pluging-it-on-block)
+-   अपने स्वयं के सर्वर पर वेबसाइटें चलाता है (उदा.<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
 -   इस WIP पर विचार करें
--   प्रोग्रामिंग पसंद है, यह लौटने का समय है!
+-   Likes programming, it's time to return!
     -   ```bat
         @ECHO OFF
         echo Hello There!
@@ -17,7 +17,9 @@
 
 नमस्ते! मैं एक भविष्यवादी छात्र, कंप्यूटर विशेषज्ञ और डेवलपर हूं जो उपयोगी सॉफ़्टवेयर बनाने का प्रयास करता है! मैं आने वाले कुछ वर्षों में अपने ज्ञान का विस्तार करने के लिए उत्सुक हूं।
 
-# My stats
+अपने जीवन में कुछ कठिन समय के बाद, मैं वापस लौटने और कुछ शौक और लक्ष्य फिर से हासिल करने की कोशिश करना चाहता हूं। उनमें से एक है दुनिया को बदलना: मुझे विश्वास है कि हम मानवतावाद के साथ एक अंतहीन चक्र में (जब तक कि भौतिकी इसे तोड़ नहीं देती) सुधार लाने के लिए जी रहे हैं।
+
+# मेरे आँकड़े
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
