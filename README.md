@@ -13,6 +13,8 @@
 ![I love Android and Linux!](./img/android-and-linux-fan.png)
 # About me
 Hello! I'm a futuristic student, computer geek & developer who strives to make useful software! I am eager to expand my knowledge in the couple of years ahead to come.
+
+After some hard periods in my life, I want to try to get back and pick up some hobbies and goals again. One of them is to change the world: I am convinced that we live to bring improvement, in an endless cycle (unless the physics break it) with humanism.
 # My stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Minionguyjpro&count_private=true&theme=react&showicons=true)
 
