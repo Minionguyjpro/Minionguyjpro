@@ -1,7 +1,7 @@
 # Bonjour<img src="https://media.tenor.com/nebZyl8oN7IAAAAj/wave-hello.gif" width="30px">!
 
 -   🕒 Inscrit le 5 mai 2020
--   Is the ❤️ owner of [FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
+-   Est-ce que le ❤️ propriétaire de[FreakinSoftMania](https://github.com/FreakinSoftMania),[En ajoutant cela !](https://github.com/Adding-That-On)et[Branchez-le sur le bloc](https://github.com/Pluging-it-on-block)
 -   Gère des sites Web sur son propre serveur (par ex.<https://wiki.goodcreations.net/wiki/User:Minionguyjpro>)
 -   Considérez ce WIP
 -   Aime la programmation, il est temps de revenir !
@@ -16,6 +16,8 @@
 # Sur moi
 
 Bonjour! Je suis un étudiant futuriste, un geek en informatique et un développeur qui s'efforce de créer des logiciels utiles ! J'ai hâte d'élargir mes connaissances dans les années à venir.
+
+Après des périodes difficiles dans ma vie, je veux essayer de revenir et de reprendre des passe-temps et des objectifs. L’un d’eux est de changer le monde : je suis convaincu que nous vivons pour apporter du progrès, dans un cycle sans fin (à moins que la physique ne le brise) avec l’humanisme.
 
 # Mes statistiques
 
